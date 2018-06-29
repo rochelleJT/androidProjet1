@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/derniere_questions"
+            android:icon="@drawable/ic_derniere_questions"
+            android:title="Dernières questions" />
+        <item
+            android:id="@+id/meilleurs_utilisateurs"
+            android:icon="@drawable/gallery"
+            android:title="Meilleurs utilisateurs" />
+        <item
+            android:id="@+id/questions_favorites"
+            android:icon="@drawable/ic_questions_favorites"
+            android:title="Questions favorites" />
+    </group>
+</menu>
